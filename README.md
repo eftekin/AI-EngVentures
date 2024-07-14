@@ -7,7 +7,6 @@ This repository is created to share my explorations, projects, and experiences i
 - Artificial Intelligence Engineering: Knowledge and experiences about basic concepts, algorithms, and applications.
 - Computer Vision: Applications including image processing fundamentals, object recognition, image classification, and similar topics.
 - Image Processing: Applications including image processing algorithms, filtering, edge detection, and similar topics.
-- Project Examples: Projects and solutions for real-world problems related to artificial intelligence, computer vision, and image processing.
 
 ## Contribution
 
