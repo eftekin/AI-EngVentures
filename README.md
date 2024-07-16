@@ -11,7 +11,3 @@ This repository is created to share my explorations, projects, and experiences i
 ## Contribution
 
 If you would like to contribute to this project, please fork and send a pull request. I am open to any contributions and feedback.
-
-## Contact
-
-If you have any questions or feedback about my projects, feel free to contact me. My email address is: mustafa@eftekin.dev
