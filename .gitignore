@@ -164,3 +164,8 @@ cython_debug/
 data
 
 *.pt
+
+#images
+*.jpeg
+*.png
+*.jpg
