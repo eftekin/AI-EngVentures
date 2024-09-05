@@ -3,7 +3,7 @@ import pandas as pd
 from sklearn.linear_model import LinearRegression
 
 # Load the data
-housing_data = pd.read_csv("../../assets/csv/housing_data.csv")
+housing_data = pd.read_csv("../../../assets/csv/housing_data.csv")
 X = housing_data[["Sq ft", "Burglaries"]]
 y = housing_data["Rent"]
 

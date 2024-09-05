@@ -3,7 +3,7 @@ import pandas as pd
 from sklearn.neighbors import KNeighborsClassifier
 
 # Load the data
-photo_id_times = pd.read_csv("../../assets/csv/photo_id_times.csv")
+photo_id_times = pd.read_csv("../../../assets/csv/photo_id_times.csv")
 
 # Separate the data into independent and dependent variables
 X = np.array(photo_id_times["Time to id photo"]).reshape(-1, 1)
