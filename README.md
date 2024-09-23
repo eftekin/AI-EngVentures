@@ -4,7 +4,24 @@ Welcome to the **AI EngVentures** repository! This repo is a collection of my ex
 
 ## 🗂️ Contents
 
-### 1. 🖼️ [Computer Vision and Image Processing](./computer_vision_and_image_processing)
+### 1. 🤖 [Machine Learning](./machine_learning)
+
+Dive into feature engineering, supervised learning, and upcoming unsupervised learning models:
+
+- **Feature Engineering**: Techniques for transforming and scaling data.
+- **Supervised Learning**: Projects covering linear regression, logistic regression, and k-nearest neighbors algorithms.
+- **Unsupervised Learning** (Coming soon)
+
+### 2. 🛠️ [Projects](./projects)
+
+Real-world applications of AI and machine learning techniques:
+
+- **🩺 [Cancer Classifier](./projects/supervised_learning/cancer_classifier)**: A model to predict cancer based on diagnostic data.
+- **🍯 [Honey Production](./projects/supervised_learning/honey_production)**: Predicting honey production using regression techniques.
+- **💳 [Credit Card Fraud Detection](./projects/supervised_learning/predict_credit_card_fraud)**: Identifying fraudulent transactions with logistic regression.
+- **🎾 [Tennis Ace](./projects/supervised_learning/tennis_ace)**: A project exploring data analysis in sports.
+
+### 3. 🖼️ [Computer Vision and Image Processing](./computer_vision_and_image_processing)
 
 Explore core concepts of image processing and computer vision, covering topics such as:
 
@@ -15,30 +32,13 @@ Explore core concepts of image processing and computer vision, covering topics s
 - **Logistic Regression for Vision Tasks**
 - **Neural Networks for Vision Applications**
 
-### 2. 🤖 [Machine Learning](./machine_learning)
-
-Dive into feature engineering, supervised learning, and upcoming unsupervised learning models:
-
-- **Feature Engineering**: Techniques for transforming and scaling data.
-- **Supervised Learning**: Projects covering linear regression, logistic regression, and k-nearest neighbors algorithms.
-- **Unsupervised Learning** (Coming soon)
-
-### 3. 📐 [Math for AI Engineering](./math_for_ai_engineering)
+### 4. 📐 [Math for AI Engineering](./math_for_ai_engineering)
 
 Understand the mathematical foundations required for AI, including:
 
 - **Linear Algebra**
 - **Probability**
 - **Statistics**
-
-### 4. 🛠️ [Projects](./projects)
-
-Real-world applications of AI and machine learning techniques:
-
-- **🩺 [Cancer Classifier](./projects/supervised_learning/cancer_classifier)**: A model to predict cancer based on diagnostic data.
-- **🍯 [Honey Production](./projects/supervised_learning/honey_production)**: Predicting honey production using regression techniques.
-- **💳 [Credit Card Fraud Detection](./projects/supervised_learning/predict_credit_card_fraud)**: Identifying fraudulent transactions with logistic regression.
-- **🎾 [Tennis Ace](./projects/supervised_learning/tennis_ace)**: A project exploring data analysis in sports.
 
 ## 🤝 How to Contribute
 
