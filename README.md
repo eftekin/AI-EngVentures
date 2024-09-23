@@ -1,13 +1,51 @@
-# AI EngVentures
+# 🚀 AI EngVentures
 
-This repository is created to share my explorations, projects, and experiences in the field of artificial intelligence, computer vision, and image processing. Here, I will share my knowledge and experiences on the basic concepts, algorithms, and applications in these areas.
+Welcome to the **AI EngVentures** repository! This repo is a collection of my explorations, projects, and insights in artificial intelligence, computer vision, image processing, and machine learning. Through various projects and topics, I aim to deepen my understanding and share my learnings in these fields.
 
-## Contents
+## 🗂️ Contents
 
-- Artificial Intelligence Engineering: Knowledge and experiences about basic concepts, algorithms, and applications.
-- Computer Vision: Applications including image processing fundamentals, object recognition, image classification, and similar topics.
-- Image Processing: Applications including image processing algorithms, filtering, edge detection, and similar topics.
+### 1. 🖼️ [Computer Vision and Image Processing](./computer_vision_and_image_processing)
 
-## Contribution
+Explore core concepts of image processing and computer vision, covering topics such as:
 
-If you would like to contribute to this project, please fork and send a pull request. I am open to any contributions and feedback.
+- **Image Processing Fundamentals** (Filtering, edge detection)
+- **Geometric Transformations**
+- **Pixel Transformations**
+- **Object Detection**
+- **Logistic Regression for Vision Tasks**
+- **Neural Networks for Vision Applications**
+
+### 2. 🤖 [Machine Learning](./machine_learning)
+
+Dive into feature engineering, supervised learning, and upcoming unsupervised learning models:
+
+- **Feature Engineering**: Techniques for transforming and scaling data.
+- **Supervised Learning**: Projects covering linear regression, logistic regression, and k-nearest neighbors algorithms.
+- **Unsupervised Learning** (Coming soon)
+
+### 3. 📐 [Math for AI Engineering](./math_for_ai_engineering)
+
+Understand the mathematical foundations required for AI, including:
+
+- **Linear Algebra**
+- **Probability**
+- **Statistics**
+
+### 4. 🛠️ [Projects](./projects)
+
+Real-world applications of AI and machine learning techniques:
+
+- **🩺 [Cancer Classifier](./projects/supervised_learning/cancer_classifier)**: A model to predict cancer based on diagnostic data.
+- **🍯 [Honey Production](./projects/supervised_learning/honey_production)**: Predicting honey production using regression techniques.
+- **💳 [Credit Card Fraud Detection](./projects/supervised_learning/predict_credit_card_fraud)**: Identifying fraudulent transactions with logistic regression.
+- **🎾 [Tennis Ace](./projects/supervised_learning/tennis_ace)**: A project exploring data analysis in sports.
+
+## 🤝 How to Contribute
+
+If you'd like to contribute:
+
+1. Fork this repository.
+2. Create a new branch.
+3. Make your changes and submit a pull request.
+
+I'm open to contributions and feedback, so feel free to reach out with any ideas!
