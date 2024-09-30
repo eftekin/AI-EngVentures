@@ -20,6 +20,7 @@ Real-world applications of AI and machine learning techniques:
 - **🍯 [Honey Production](./projects/supervised_learning/honey_production)**: Predicting honey production using regression techniques.
 - **💳 [Credit Card Fraud Detection](./projects/supervised_learning/predict_credit_card_fraud)**: Identifying fraudulent transactions with logistic regression.
 - **🎾 [Tennis Ace](./projects/supervised_learning/tennis_ace)**: A project exploring data analysis in sports.
+- **🚩 [Find the Flag!](./projects/supervised_learning/find_the_flag)**: Predict the continent of a flag using decision trees and features like colors and shapes. [Dataset](https://archive.ics.uci.edu/ml/datasets/Flags)
 
 ### 3. 🖼️ [Computer Vision and Image Processing](./computer_vision_and_image_processing)
 
