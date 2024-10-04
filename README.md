@@ -22,7 +22,7 @@ Real-world applications of AI and machine learning techniques:
 - **🎾 [Tennis Ace](./projects/supervised_learning/tennis_ace)**: A project exploring data analysis in sports.
 - **🚩 [Find the Flag!](./projects/supervised_learning/find_the_flag)**: Predict the continent of a flag using decision trees and features like colors and shapes. [Dataset](https://archive.ics.uci.edu/ml/datasets/Flags)
 - **🧰 [Transforming Data into Features](./projects/feature_engineering/transforming_data)**: Transform customer review data by scaling, encoding categorical variables, and handling date-time features. [Dataset from Kaggle](https://www.kaggle.com/datasets/nicapotato/womens-ecommerce-clothing-reviews).
-- **📝 [Wrapper Methods](./projects/supervised_learning/wrapper_methods)**: Use logistic regression to predict obesity and explore feature selection with wrapper methods. Dataset: [Obesity Data Set](https://archive.ics.uci.edu/dataset/544/estimation+of+obesity+levels+based+on+eating+habits+and+physical+condition).
+- **📝 [Wrapper Methods](./projects/feature_engineering/wrapper_methods)**: Use logistic regression to predict obesity and explore feature selection with wrapper methods. Dataset: [Obesity Data Set](https://archive.ics.uci.edu/dataset/544/estimation+of+obesity+levels+based+on+eating+habits+and+physical+condition).
 
 ### 3. 🖼️ [Computer Vision and Image Processing](./computer_vision_and_image_processing)
 
