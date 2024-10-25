@@ -10,7 +10,7 @@ Dive into feature engineering, supervised learning, and upcoming unsupervised le
 
 - **Feature Engineering**: Techniques for transforming and scaling data.
 - **Supervised Learning**: Projects covering linear regression, logistic regression, and k-nearest neighbors algorithms.
-- **Unsupervised Learning** (Coming soon)
+- **Unsupervised Learning** Projects featuring K-Means clustering, PCA (Principal Component Analysis), and more.
 
 ### 2. 🛠️ [Projects](./projects)
 
