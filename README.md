@@ -25,6 +25,7 @@ Real-world applications of AI and machine learning techniques:
 - **📝 [Wrapper Methods](./projects/feature_engineering/wrapper_methods)**: Use logistic regression to predict obesity and explore feature selection with wrapper methods. Dataset: [Obesity Data Set](https://archive.ics.uci.edu/dataset/544/estimation+of+obesity+levels+based+on+eating+habits+and+physical+condition).
 - **✍️ [Handwriting Recognition](./projects/unsupervised_learning/handwriting_recognition_kmeans)**: Use K-means clustering to recognize and group images of handwritten digits, leveraging scikit-learn for clustering analysis. [Dataset from scikit-learn](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_digits.html).
 - **📧 [Email Similarity Classification](./projects/supervised_learning/email_similarity)**: A project that classifies emails into categories (hardware or hockey) using the Naive Bayes algorithm. This project utilizes the `fetch_20newsgroups` dataset and includes functionalities for predicting email categories based on user input.
+- **🍷 [Predict Wine Quality with Regularization](./projects/supervised_learning/predict_wine_quality)**: Classify wine quality (good/bad) with logistic regression, ridge, and lasso regularization. [Wine Quality Dataset](https://archive.ics.uci.edu/ml/datasets/Wine+Quality)
 
 ### 3. 🖼️ [Computer Vision and Image Processing](./computer_vision_and_image_processing)
 
