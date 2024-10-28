@@ -27,6 +27,7 @@ Real-world applications of AI and machine learning techniques:
 - **📧 [Email Similarity Classification](./projects/supervised_learning/email_similarity)**: A project that classifies emails into categories (hardware or hockey) using the Naive Bayes algorithm. This project utilizes the `fetch_20newsgroups` dataset and includes functionalities for predicting email categories based on user input.
 - **🍷 [Predict Wine Quality with Regularization](./projects/supervised_learning/predict_wine_quality)**: Classify wine quality (good/bad) with logistic regression, ridge, and lasso regularization. [Wine Quality Dataset](https://archive.ics.uci.edu/ml/datasets/Wine+Quality)
 - **🌲 [Random Forests Project](./projects/supervised_learning/random_forests)**: Predict income >$50K from census data. [Dataset](https://archive.ics.uci.edu/ml/datasets/census+income)
+- **🔧 [Building ML Pipelines](./projects/machine_learning/ml_pipelines)**: Pipeline for pediatric bone marrow transplants, including preprocessing and classifier selection to predict survival.
 
 ### 3. 🖼️ [Computer Vision and Image Processing](./computer_vision_and_image_processing)
 
