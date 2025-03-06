@@ -46,6 +46,6 @@ with col2:
 # Footer
 st.markdown("---")
 st.markdown(
-    '<p style="text-align: center; font-size: 1rem;">🚀 Crafted with passion by AI-EngVentures | Building AI Solutions for Tomorrow</p>',
+    '<p style="text-align: center; font-size: 1rem;">🚀 AI-EngVentures | <a href="https://github.com/eftekin/AI-EngVentures" target="_blank">Access the repository here</a></p>',
     unsafe_allow_html=True,
 )
