@@ -7,7 +7,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler
 
 # Load the data
-transactions = pd.read_csv("transactions_modified.csv")
+transactions = pd.read_csv("../../../assets/csv/transactions_modified.csv")
 print(transactions.head())
 transactions = transactions.dropna()
 print(transactions.info())
