@@ -4,7 +4,7 @@ from sklearn.linear_model import LinearRegression
 from sklearn.model_selection import train_test_split
 
 # load and investigate the data here:
-df = pd.read_csv("tennis_stats.csv")
+df = pd.read_csv("assets/csv/tennis_stats.csv")
 print(df.head())
 
 # Exploratory analysis: Visualize the relationship between BreakPointsOpportunities and Winnings
